@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Backend/DotNetAssessmentExam.Api/bin
+/Backend/.vs/DotNetAssessmentExam
+/Backend/DotNetAssessmentExam.Api/obj
+/Backend/DotNetAssessmentExam.Application/bin
+/Backend/DotNetAssessmentExam.Application/obj
+/Backend/DotNetAssessmentExam.Core/bin
+/Backend/DotNetAssessmentExam.Core/obj
+/Backend/DotNetAssessmentExam.Infrastructure/bin
+/Backend/DotNetAssessmentExam.Infrastructure/obj
